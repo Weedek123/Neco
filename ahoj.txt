@@ -1,9 +1,9 @@
 asdfasdfasd
 asdfasd
-<<<<<<< HEAD
+
 asdf
 asdfsdaf
-=======
+
 asdfdfdf
 12354897512
 fdfdsaf
